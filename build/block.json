@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "umbrella-wishlist/umbrella-wishlist",
+	"version": "0.1.0",
+	"title": "Umbrella Wishlist",
+	"category": "media",
+	"icon": "smiley",
+	"description": "A Wishlist Plugin for the Umbrella Theme",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "umbrella-wishlist",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
